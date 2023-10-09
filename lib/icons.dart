@@ -23,4 +23,11 @@ class IIcons {
   static const String pin = '$root/pin.svg';
   static const String remont = '$root/remont.svg';
   static const String star = '$root/star.svg';
+
+  static const String tabChat = '$root/tabs/chat.svg';
+  static const String tabHome = '$root/tabs/home.svg';
+  static const String tabProfile = '$root/tabs/profile.svg';
+  static const String tabPost = '$root/tabs/post.svg';
+  static const String tabNotif = '$root/tabs/notif.svg';
+
 }
